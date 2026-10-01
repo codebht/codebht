@@ -1,7 +1,5 @@
 # Hi, I'm codebht 👋
-
-Welcome to my GitHub profile! I'm a developer passionate about **Android**, **Linux**, **Embedded Systems**, and **Robotics**. I love building, experimenting, and solving real-world problems through code and hardware.
-
+I'm interested in **Android**, **Linux**, **Embedded Systems**, and **Robotics**
 ---
 
 ## 🛠️ Skills
@@ -31,7 +29,7 @@ Welcome to my GitHub profile! I'm a developer passionate about **Android**, **Li
 
 ## 🌐 Connect With Me
 
-- **Website**: [codebht.dev](https://codebht.vercel.app)
+- **Website**: [codebht.portfolio](https://codebht.vercel.app)
 - **Telegram**: [@codebht](https://t.me/codebht)
 - **Email**: [codebht@gmail.com](mailto:codebht@gmail.com)
 - **GitHub**: [github.com/codebht](https://github.com/codebht)
@@ -91,30 +89,8 @@ Robotics      → RC / Automation / Electronics
 
 ---
 
-## 🎯 Philosophy
-
-> **Build. Break. Learn. Fix. Repeat.**
-
-I believe in hands-on learning through experimentation. Every project is an opportunity to understand systems deeper and push boundaries.
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to:
-- Contributing to open-source projects
-- Collaborating on Android/Linux/Robotics projects
-- Discussing embedded systems and hardware hacks
-- Sharing knowledge and learning from others
-
-Feel free to reach out via email, Telegram, or GitHub!
-
----
-
-<div align="center">
-
 **Android • Linux • Embedded • Robotics**
 
-*Keep flying. Keep building.* 🐦
+*Keep building.* 🐦
 
 </div>
