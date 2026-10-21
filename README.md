@@ -8,7 +8,7 @@ I'm interested in **Android**, **Linux**, **Embedded Systems**, and **Robotics**
 - **Embedded Systems** - Arduino, ESP8266, STM32, microcontroller programming
 - **Hardware** - Motors, sensors, RF modules, electronics
 - **Robotics** - RC cars, wireless control, automation projects
-- **also a noob hardware hacker"
+- **also a noob hardware hacker**
 ---
 
 ## 🌐 Connect With Me
