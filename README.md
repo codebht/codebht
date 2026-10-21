@@ -2,13 +2,12 @@
 I'm interested in **Android**, **Linux**, **Embedded Systems**, and **Robotics**
 ---
 
-### Technologies & Platforms
 - **Android** - AOSP, custom ROMs, GSI, recovery builds
 - **Linux** - Kernel development, system customization, embedded Linux
 - **Embedded Systems** - Arduino, ESP8266, STM32, microcontroller programming
 - **Hardware** - Motors, sensors, RF modules, electronics
 - **Robotics** - RC cars, wireless control, automation projects
-- **also a noob hardware hacker**
+- **also experience with hardware hacker**
 ---
 
 ## 🌐 Connect With Me
