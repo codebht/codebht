@@ -17,7 +17,6 @@ I'm interested in **Android**, **Linux**, **Embedded Systems**, and **Robotics**
 - **Email**: [codebht@gmail.com](mailto:codebht@gmail.com)
 - **GitHub**: [github.com/codebht](https://github.com/codebht)
 
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebht&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
